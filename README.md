@@ -2,7 +2,7 @@
 
 Personal developer portfolio built using **React.js** to showcase my skills, projects, and experience as a **Java Full Stack Web Developer**.
 
-🔗 **Live Demo:**  
+🔗 **Live:**  
 https://lestroportfolio.netlify.app/
 
 ---
