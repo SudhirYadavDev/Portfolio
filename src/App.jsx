@@ -1,5 +1,4 @@
 // src/App.jsx
-import React from "react";
 import "./App.css";
 
 import Header from "./components/Header/Header";
@@ -17,7 +16,7 @@ function App() {
       <Projects />
       <Contact />
        <a
-        href="/Sudhir_Yadav_Resume.pdf"
+        href="/Sudhir Yadav Resume.pdf"
         download
         className="download-cv"
         title="Download CV"
